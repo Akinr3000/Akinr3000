@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel
+- 👋 Hi, I’m @Akinr3000
 - 👀 I’m interested in WEB DEVELOPING AND CYBER SECURITY
 - 🌱 I’m currently learning HTML, CSS AND JAVASCRIPT
 - 💞️ I’m looking to collaborate with MANY DEVS
